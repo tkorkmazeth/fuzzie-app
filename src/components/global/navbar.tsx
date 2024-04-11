@@ -54,7 +54,7 @@ const Navbar: React.FC<NavbarProps> = async () => {
         {
           //WIP: wire up user
         }
-        <MenuIcon className="" />
+        <MenuIcon className="md:hidden" />
       </aside>
     </header>
   );
